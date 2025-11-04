@@ -1,0 +1,19 @@
+En la branca main
+La vostra branca està 1 comissió per davant de «origin/main».
+  (useu «git push» per a publicar les vostres comissions locals)
+
+Canvis no «staged» per a cometre:
+  (useu «git add <fitxer>...» per a actualitzar què es cometrà)
+  (useu «git restore <fitxer>...» per a descartar canvis en el directori de treball)
+	modificat:        README.md
+
+no hi ha canvis afegits a cometre (useu «git add» o «git commit -a»)
+En la branca v2.0
+Canvis no «staged» per a cometre:
+  (useu «git add <fitxer>...» per a actualitzar què es cometrà)
+  (useu «git restore <fitxer>...» per a descartar canvis en el directori de treball)
+	modificat:        README.md
+	modificat:        datos.txt
+
+no hi ha canvis afegits a cometre (useu «git add» o «git commit -a»)
+Inicio
